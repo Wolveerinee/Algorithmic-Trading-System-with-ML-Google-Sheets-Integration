@@ -1,0 +1,682 @@
+2025-08-11 00:29:39,824 - INFO - Starting trading system execution
+2025-08-11 00:29:42,159 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:29:43,438 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:29:43,439 - WARNING - No data found for RELIANCE.NS
+2025-08-11 00:29:44,678 - ERROR - Failed to get ticker 'TCS.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:29:46,151 - ERROR - $TCS.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:29:46,152 - WARNING - No data found for TCS.NS
+2025-08-11 00:29:47,542 - ERROR - Failed to get ticker 'HDFCBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:29:48,981 - ERROR - $HDFCBANK.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:29:48,982 - WARNING - No data found for HDFCBANK.NS
+2025-08-11 00:29:48,982 - ERROR - No data fetched. Aborting execution.
+2025-08-11 00:36:30,962 - INFO - Starting trading system execution
+2025-08-11 00:36:32,820 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:36:33,998 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:36:33,999 - WARNING - No data found for RELIANCE.NS
+2025-08-11 00:36:35,211 - ERROR - Failed to get ticker 'TCS.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:36:36,528 - ERROR - $TCS.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:36:36,528 - WARNING - No data found for TCS.NS
+2025-08-11 00:36:37,705 - ERROR - Failed to get ticker 'HDFCBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:36:39,032 - ERROR - $HDFCBANK.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:36:39,033 - WARNING - No data found for HDFCBANK.NS
+2025-08-11 00:36:39,033 - ERROR - No data fetched. Aborting execution.
+2025-08-11 00:51:17,736 - INFO - Starting trading system execution
+2025-08-11 00:51:19,664 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:51:22,209 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:51:22,209 - WARNING - No data found for RELIANCE.NS
+2025-08-11 00:51:22,210 - INFO - Trying alternative symbol: RELIANCE.BO
+2025-08-11 00:51:24,020 - ERROR - Failed to get ticker 'RELIANCE.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:51:25,203 - ERROR - $RELIANCE.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:51:26,936 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:51:28,198 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:51:28,198 - WARNING - No data found for INFY.NS
+2025-08-11 00:51:28,199 - INFO - Trying alternative symbol: INFY.BO
+2025-08-11 00:51:29,358 - ERROR - Failed to get ticker 'INFY.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:51:30,582 - ERROR - $INFY.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:51:33,510 - ERROR - Failed to get ticker 'ICICIBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:51:36,168 - ERROR - $ICICIBANK.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:51:36,169 - WARNING - No data found for ICICIBANK.NS
+2025-08-11 00:51:36,169 - INFO - Trying alternative symbol: ICICIBANK.BO
+2025-08-11 00:51:38,370 - ERROR - Failed to get ticker 'ICICIBANK.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:51:40,277 - ERROR - $ICICIBANK.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:51:40,278 - ERROR - No data fetched for any symbol. Aborting execution.
+2025-08-11 00:53:03,889 - INFO - Starting trading system execution
+2025-08-11 00:53:05,740 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:53:06,951 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:53:06,952 - WARNING - No data found for RELIANCE.NS
+2025-08-11 00:53:06,952 - INFO - Trying alternative symbol: RELIANCE.BO
+2025-08-11 00:53:08,122 - ERROR - Failed to get ticker 'RELIANCE.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:53:09,315 - ERROR - $RELIANCE.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:53:10,564 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:53:12,494 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:53:12,495 - WARNING - No data found for INFY.NS
+2025-08-11 00:53:12,495 - INFO - Trying alternative symbol: INFY.BO
+2025-08-11 00:53:13,694 - ERROR - Failed to get ticker 'INFY.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:53:14,866 - ERROR - $INFY.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:53:16,060 - ERROR - Failed to get ticker 'ICICIBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:53:17,332 - ERROR - $ICICIBANK.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:53:17,333 - WARNING - No data found for ICICIBANK.NS
+2025-08-11 00:53:17,333 - INFO - Trying alternative symbol: ICICIBANK.BO
+2025-08-11 00:53:18,538 - ERROR - Failed to get ticker 'ICICIBANK.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:53:19,725 - ERROR - $ICICIBANK.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:53:19,726 - ERROR - No data fetched for any symbol. Aborting execution.
+2025-08-11 00:54:08,747 - INFO - Starting trading system execution
+2025-08-11 00:54:13,124 - ERROR - Failed to get ticker 'RELIANCE.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:54:15,577 - ERROR - $RELIANCE.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:54:15,578 - WARNING - No data found for RELIANCE.BO
+2025-08-11 00:54:22,082 - ERROR - Failed to get ticker 'INFY.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:54:23,351 - ERROR - $INFY.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:54:23,352 - WARNING - No data found for INFY.BO
+2025-08-11 00:54:26,108 - ERROR - Failed to get ticker 'ICICIBANK.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:54:27,690 - ERROR - $ICICIBANK.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:54:27,690 - WARNING - No data found for ICICIBANK.BO
+2025-08-11 00:54:27,691 - ERROR - No data fetched for any symbol. Aborting execution.
+2025-08-11 00:56:31,452 - INFO - Starting trading system execution
+2025-08-11 00:56:31,452 - INFO - Attempting to fetch data for RELIANCE.BO with period 6mo
+2025-08-11 00:56:33,260 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:56:34,455 - WARNING - Could not retrieve info for RELIANCE.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:35,657 - ERROR - Failed to get ticker 'RELIANCE.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:36,861 - ERROR - $RELIANCE.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:56:36,862 - INFO - Retrieved 0 rows of data for RELIANCE.BO with period 6mo
+2025-08-11 00:56:36,862 - WARNING - No historical data found for RELIANCE.BO with period 6mo
+2025-08-11 00:56:36,862 - INFO - Attempting to fetch data for RELIANCE.BO with period 3mo
+2025-08-11 00:56:38,054 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:56:38,055 - WARNING - Could not retrieve info for RELIANCE.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:38,055 - ERROR - Failed to get ticker 'RELIANCE.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:39,275 - ERROR - $RELIANCE.BO: possibly delisted; No price data found  (period=3mo)
+2025-08-11 00:56:39,276 - INFO - Retrieved 0 rows of data for RELIANCE.BO with period 3mo
+2025-08-11 00:56:39,276 - WARNING - No historical data found for RELIANCE.BO with period 3mo
+2025-08-11 00:56:39,276 - INFO - Attempting to fetch data for RELIANCE.BO with period 1mo
+2025-08-11 00:56:40,524 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:56:40,525 - WARNING - Could not retrieve info for RELIANCE.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:40,526 - ERROR - Failed to get ticker 'RELIANCE.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:43,625 - ERROR - $RELIANCE.BO: possibly delisted; No price data found  (period=1mo)
+2025-08-11 00:56:43,626 - INFO - Retrieved 0 rows of data for RELIANCE.BO with period 1mo
+2025-08-11 00:56:43,626 - WARNING - No historical data found for RELIANCE.BO with period 1mo
+2025-08-11 00:56:43,626 - INFO - Attempting to fetch data for RELIANCE.BO with period 1y
+2025-08-11 00:56:45,585 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:56:45,586 - WARNING - Could not retrieve info for RELIANCE.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:45,587 - ERROR - Failed to get ticker 'RELIANCE.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:46,751 - ERROR - $RELIANCE.BO: possibly delisted; No price data found  (period=1y)
+2025-08-11 00:56:46,752 - INFO - Retrieved 0 rows of data for RELIANCE.BO with period 1y
+2025-08-11 00:56:46,752 - WARNING - No historical data found for RELIANCE.BO with period 1y
+2025-08-11 00:56:46,752 - ERROR - Failed to fetch data for RELIANCE.BO with all attempted periods
+2025-08-11 00:56:46,752 - INFO - Attempting to fetch data for INFY.BO with period 6mo
+2025-08-11 00:56:47,927 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:56:50,113 - WARNING - Could not retrieve info for INFY.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:51,323 - ERROR - Failed to get ticker 'INFY.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:52,536 - ERROR - $INFY.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:56:52,536 - INFO - Retrieved 0 rows of data for INFY.BO with period 6mo
+2025-08-11 00:56:52,536 - WARNING - No historical data found for INFY.BO with period 6mo
+2025-08-11 00:56:52,537 - INFO - Attempting to fetch data for INFY.BO with period 3mo
+2025-08-11 00:56:53,783 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:56:53,784 - WARNING - Could not retrieve info for INFY.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:53,785 - ERROR - Failed to get ticker 'INFY.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:55,033 - ERROR - $INFY.BO: possibly delisted; No price data found  (period=3mo)
+2025-08-11 00:56:55,033 - INFO - Retrieved 0 rows of data for INFY.BO with period 3mo
+2025-08-11 00:56:55,034 - WARNING - No historical data found for INFY.BO with period 3mo
+2025-08-11 00:56:55,034 - INFO - Attempting to fetch data for INFY.BO with period 1mo
+2025-08-11 00:56:56,291 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:56:56,292 - WARNING - Could not retrieve info for INFY.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:56,293 - ERROR - Failed to get ticker 'INFY.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:57,491 - ERROR - $INFY.BO: possibly delisted; No price data found  (period=1mo)
+2025-08-11 00:56:57,491 - INFO - Retrieved 0 rows of data for INFY.BO with period 1mo
+2025-08-11 00:56:57,492 - WARNING - No historical data found for INFY.BO with period 1mo
+2025-08-11 00:56:57,492 - INFO - Attempting to fetch data for INFY.BO with period 1y
+2025-08-11 00:56:58,749 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:56:58,749 - WARNING - Could not retrieve info for INFY.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:56:58,750 - ERROR - Failed to get ticker 'INFY.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:00,140 - ERROR - $INFY.BO: possibly delisted; No price data found  (period=1y)
+2025-08-11 00:57:00,141 - INFO - Retrieved 0 rows of data for INFY.BO with period 1y
+2025-08-11 00:57:00,141 - WARNING - No historical data found for INFY.BO with period 1y
+2025-08-11 00:57:00,141 - ERROR - Failed to fetch data for INFY.BO with all attempted periods
+2025-08-11 00:57:00,141 - INFO - Attempting to fetch data for ICICIBANK.BO with period 6mo
+2025-08-11 00:57:01,359 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:57:02,555 - WARNING - Could not retrieve info for ICICIBANK.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:05,100 - ERROR - Failed to get ticker 'ICICIBANK.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:07,330 - ERROR - $ICICIBANK.BO: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:57:07,331 - INFO - Retrieved 0 rows of data for ICICIBANK.BO with period 6mo
+2025-08-11 00:57:07,331 - WARNING - No historical data found for ICICIBANK.BO with period 6mo
+2025-08-11 00:57:07,331 - INFO - Attempting to fetch data for ICICIBANK.BO with period 3mo
+2025-08-11 00:57:08,457 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:57:08,458 - WARNING - Could not retrieve info for ICICIBANK.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:08,459 - ERROR - Failed to get ticker 'ICICIBANK.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:09,996 - ERROR - $ICICIBANK.BO: possibly delisted; No price data found  (period=3mo)
+2025-08-11 00:57:09,997 - INFO - Retrieved 0 rows of data for ICICIBANK.BO with period 3mo
+2025-08-11 00:57:09,997 - WARNING - No historical data found for ICICIBANK.BO with period 3mo
+2025-08-11 00:57:09,997 - INFO - Attempting to fetch data for ICICIBANK.BO with period 1mo
+2025-08-11 00:57:11,880 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:57:11,880 - WARNING - Could not retrieve info for ICICIBANK.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:11,881 - ERROR - Failed to get ticker 'ICICIBANK.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:13,605 - ERROR - $ICICIBANK.BO: possibly delisted; No price data found  (period=1mo)
+2025-08-11 00:57:13,606 - INFO - Retrieved 0 rows of data for ICICIBANK.BO with period 1mo
+2025-08-11 00:57:13,606 - WARNING - No historical data found for ICICIBANK.BO with period 1mo
+2025-08-11 00:57:13,606 - INFO - Attempting to fetch data for ICICIBANK.BO with period 1y
+2025-08-11 00:57:15,916 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.BO?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.BO&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:57:15,917 - WARNING - Could not retrieve info for ICICIBANK.BO: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:15,918 - ERROR - Failed to get ticker 'ICICIBANK.BO' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:17,147 - ERROR - $ICICIBANK.BO: possibly delisted; No price data found  (period=1y)
+2025-08-11 00:57:17,147 - INFO - Retrieved 0 rows of data for ICICIBANK.BO with period 1y
+2025-08-11 00:57:17,148 - WARNING - No historical data found for ICICIBANK.BO with period 1y
+2025-08-11 00:57:17,148 - ERROR - Failed to fetch data for ICICIBANK.BO with all attempted periods
+2025-08-11 00:57:17,148 - ERROR - No data fetched for any symbols. This might be due to Yahoo Finance API issues.
+2025-08-11 00:57:17,148 - ERROR - Possible solutions:
+2025-08-11 00:57:17,148 - ERROR - 1. Check your internet connection
+2025-08-11 00:57:17,149 - ERROR - 2. Try updating yfinance: pip install --upgrade yfinance
+2025-08-11 00:57:17,149 - ERROR - 3. Check if the ticker symbols are still valid
+2025-08-11 00:57:17,149 - ERROR - 4. Try using a VPN if you're in a region where Yahoo Finance is blocked
+2025-08-11 00:57:17,149 - ERROR - 5. Wait and try again later as this might be a temporary issue with Yahoo Finance
+2025-08-11 00:57:17,149 - ERROR - No data fetched for any symbol. Aborting execution.
+2025-08-11 00:57:49,326 - INFO - Starting trading system execution
+2025-08-11 00:57:49,326 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 00:57:51,142 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:57:53,022 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:54,249 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:55,460 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:57:55,461 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 00:57:55,461 - WARNING - No historical data found for RELIANCE.NS with period 6mo
+2025-08-11 00:57:55,461 - INFO - Attempting to fetch data for RELIANCE.NS with period 3mo
+2025-08-11 00:57:56,640 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:57:56,641 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:56,642 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:57,852 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=3mo)
+2025-08-11 00:57:57,853 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 3mo
+2025-08-11 00:57:57,853 - WARNING - No historical data found for RELIANCE.NS with period 3mo
+2025-08-11 00:57:57,853 - INFO - Attempting to fetch data for RELIANCE.NS with period 1mo
+2025-08-11 00:57:59,047 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:57:59,048 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:57:59,049 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:00,246 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=1mo)
+2025-08-11 00:58:00,246 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 1mo
+2025-08-11 00:58:00,246 - WARNING - No historical data found for RELIANCE.NS with period 1mo
+2025-08-11 00:58:00,247 - INFO - Attempting to fetch data for RELIANCE.NS with period 1y
+2025-08-11 00:58:01,759 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:58:01,760 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:01,761 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:03,648 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=1y)
+2025-08-11 00:58:03,648 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 1y
+2025-08-11 00:58:03,648 - WARNING - No historical data found for RELIANCE.NS with period 1y
+2025-08-11 00:58:03,649 - ERROR - Failed to fetch data for RELIANCE.NS with all attempted periods
+2025-08-11 00:58:03,649 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 00:58:07,405 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:58:08,637 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:09,801 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:10,980 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:58:10,981 - INFO - Retrieved 0 rows of data for INFY.NS with period 6mo
+2025-08-11 00:58:10,981 - WARNING - No historical data found for INFY.NS with period 6mo
+2025-08-11 00:58:10,982 - INFO - Attempting to fetch data for INFY.NS with period 3mo
+2025-08-11 00:58:12,126 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:58:12,127 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:12,128 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:13,300 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=3mo)
+2025-08-11 00:58:13,301 - INFO - Retrieved 0 rows of data for INFY.NS with period 3mo
+2025-08-11 00:58:13,301 - WARNING - No historical data found for INFY.NS with period 3mo
+2025-08-11 00:58:13,301 - INFO - Attempting to fetch data for INFY.NS with period 1mo
+2025-08-11 00:58:14,500 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:58:14,500 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:14,501 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:15,759 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=1mo)
+2025-08-11 00:58:15,759 - INFO - Retrieved 0 rows of data for INFY.NS with period 1mo
+2025-08-11 00:58:15,759 - WARNING - No historical data found for INFY.NS with period 1mo
+2025-08-11 00:58:15,760 - INFO - Attempting to fetch data for INFY.NS with period 1y
+2025-08-11 00:58:16,947 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:58:16,947 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:16,948 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:18,177 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=1y)
+2025-08-11 00:58:18,177 - INFO - Retrieved 0 rows of data for INFY.NS with period 1y
+2025-08-11 00:58:18,177 - WARNING - No historical data found for INFY.NS with period 1y
+2025-08-11 00:58:18,178 - ERROR - Failed to fetch data for INFY.NS with all attempted periods
+2025-08-11 00:58:18,178 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 00:58:20,164 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:58:21,326 - WARNING - Could not retrieve info for ICICIBANK.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:23,156 - ERROR - Failed to get ticker 'ICICIBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:26,312 - ERROR - $ICICIBANK.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 00:58:26,313 - INFO - Retrieved 0 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 00:58:26,313 - WARNING - No historical data found for ICICIBANK.NS with period 6mo
+2025-08-11 00:58:26,313 - INFO - Attempting to fetch data for ICICIBANK.NS with period 3mo
+2025-08-11 00:58:27,521 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:58:27,522 - WARNING - Could not retrieve info for ICICIBANK.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:27,523 - ERROR - Failed to get ticker 'ICICIBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:28,749 - ERROR - $ICICIBANK.NS: possibly delisted; No price data found  (period=3mo)
+2025-08-11 00:58:28,750 - INFO - Retrieved 0 rows of data for ICICIBANK.NS with period 3mo
+2025-08-11 00:58:28,750 - WARNING - No historical data found for ICICIBANK.NS with period 3mo
+2025-08-11 00:58:28,751 - INFO - Attempting to fetch data for ICICIBANK.NS with period 1mo
+2025-08-11 00:58:31,606 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:58:31,607 - WARNING - Could not retrieve info for ICICIBANK.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:31,608 - ERROR - Failed to get ticker 'ICICIBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:32,809 - ERROR - $ICICIBANK.NS: possibly delisted; No price data found  (period=1mo)
+2025-08-11 00:58:32,809 - INFO - Retrieved 0 rows of data for ICICIBANK.NS with period 1mo
+2025-08-11 00:58:32,810 - WARNING - No historical data found for ICICIBANK.NS with period 1mo
+2025-08-11 00:58:32,810 - INFO - Attempting to fetch data for ICICIBANK.NS with period 1y
+2025-08-11 00:58:34,696 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 00:58:34,696 - WARNING - Could not retrieve info for ICICIBANK.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:34,697 - ERROR - Failed to get ticker 'ICICIBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 00:58:35,849 - ERROR - $ICICIBANK.NS: possibly delisted; No price data found  (period=1y)
+2025-08-11 00:58:35,850 - INFO - Retrieved 0 rows of data for ICICIBANK.NS with period 1y
+2025-08-11 00:58:35,850 - WARNING - No historical data found for ICICIBANK.NS with period 1y
+2025-08-11 00:58:35,850 - ERROR - Failed to fetch data for ICICIBANK.NS with all attempted periods
+2025-08-11 00:58:35,851 - ERROR - No data fetched for any symbols. This might be due to Yahoo Finance API issues.
+2025-08-11 00:58:35,851 - ERROR - Possible solutions:
+2025-08-11 00:58:35,851 - ERROR - 1. Check your internet connection
+2025-08-11 00:58:35,851 - ERROR - 2. Try updating yfinance: pip install --upgrade yfinance
+2025-08-11 00:58:35,851 - ERROR - 3. Check if the ticker symbols are still valid
+2025-08-11 00:58:35,851 - ERROR - 4. Try using a VPN if you're in a region where Yahoo Finance is blocked
+2025-08-11 00:58:35,852 - ERROR - 5. Wait and try again later as this might be a temporary issue with Yahoo Finance
+2025-08-11 00:58:35,852 - ERROR - No data fetched for any symbol. Aborting execution.
+2025-08-11 01:01:12,875 - INFO - Starting trading system execution
+2025-08-11 01:01:12,875 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 01:01:15,130 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:01:16,357 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:17,549 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:18,759 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 01:01:18,759 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 01:01:18,760 - WARNING - No historical data found for RELIANCE.NS with period 6mo
+2025-08-11 01:01:18,760 - INFO - Attempting to fetch data for RELIANCE.NS with period 3mo
+2025-08-11 01:01:20,741 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:01:20,742 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:20,743 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:21,975 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=3mo)
+2025-08-11 01:01:21,975 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 3mo
+2025-08-11 01:01:21,976 - WARNING - No historical data found for RELIANCE.NS with period 3mo
+2025-08-11 01:01:21,976 - INFO - Attempting to fetch data for RELIANCE.NS with period 1mo
+2025-08-11 01:01:24,171 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:01:24,172 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:24,173 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:25,348 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=1mo)
+2025-08-11 01:01:25,349 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 1mo
+2025-08-11 01:01:25,349 - WARNING - No historical data found for RELIANCE.NS with period 1mo
+2025-08-11 01:01:25,349 - INFO - Attempting to fetch data for RELIANCE.NS with period 1y
+2025-08-11 01:01:26,785 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:01:26,786 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:26,787 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:27,936 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=1y)
+2025-08-11 01:01:27,937 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 1y
+2025-08-11 01:01:27,937 - WARNING - No historical data found for RELIANCE.NS with period 1y
+2025-08-11 01:01:27,938 - ERROR - Failed to fetch data for RELIANCE.NS with all attempted periods
+2025-08-11 01:01:29,938 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 01:01:31,161 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:01:32,669 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:33,868 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:35,768 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 01:01:35,769 - INFO - Retrieved 0 rows of data for INFY.NS with period 6mo
+2025-08-11 01:01:35,769 - WARNING - No historical data found for INFY.NS with period 6mo
+2025-08-11 01:01:35,769 - INFO - Attempting to fetch data for INFY.NS with period 3mo
+2025-08-11 01:01:36,992 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:01:36,992 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:36,993 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:38,204 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=3mo)
+2025-08-11 01:01:38,205 - INFO - Retrieved 0 rows of data for INFY.NS with period 3mo
+2025-08-11 01:01:38,205 - WARNING - No historical data found for INFY.NS with period 3mo
+2025-08-11 01:01:38,205 - INFO - Attempting to fetch data for INFY.NS with period 1mo
+2025-08-11 01:01:40,450 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:01:40,451 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:40,451 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:41,736 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=1mo)
+2025-08-11 01:01:41,737 - INFO - Retrieved 0 rows of data for INFY.NS with period 1mo
+2025-08-11 01:01:41,737 - WARNING - No historical data found for INFY.NS with period 1mo
+2025-08-11 01:01:41,738 - INFO - Attempting to fetch data for INFY.NS with period 1y
+2025-08-11 01:01:42,920 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:01:42,921 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:42,922 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:44,192 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=1y)
+2025-08-11 01:01:44,193 - INFO - Retrieved 0 rows of data for INFY.NS with period 1y
+2025-08-11 01:01:44,193 - WARNING - No historical data found for INFY.NS with period 1y
+2025-08-11 01:01:44,193 - ERROR - Failed to fetch data for INFY.NS with all attempted periods
+2025-08-11 01:01:46,194 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 01:01:47,437 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:01:48,613 - WARNING - Could not retrieve info for ICICIBANK.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:01:49,857 - ERROR - Failed to get ticker 'ICICIBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:11,803 - INFO - Starting trading system execution
+2025-08-11 01:02:11,804 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 01:02:14,385 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:02:15,600 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:17,612 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:18,788 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 01:02:18,789 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 01:02:18,789 - WARNING - No historical data found for RELIANCE.NS with period 6mo
+2025-08-11 01:02:18,789 - INFO - Attempting to fetch data for RELIANCE.NS with period 3mo
+2025-08-11 01:02:21,155 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:02:21,155 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:21,156 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:24,320 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=3mo)
+2025-08-11 01:02:24,321 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 3mo
+2025-08-11 01:02:24,321 - WARNING - No historical data found for RELIANCE.NS with period 3mo
+2025-08-11 01:02:24,321 - INFO - Attempting to fetch data for RELIANCE.NS with period 1mo
+2025-08-11 01:02:25,510 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:02:25,511 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:25,512 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:27,705 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=1mo)
+2025-08-11 01:02:27,706 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 1mo
+2025-08-11 01:02:27,706 - WARNING - No historical data found for RELIANCE.NS with period 1mo
+2025-08-11 01:02:27,707 - INFO - Attempting to fetch data for RELIANCE.NS with period 1y
+2025-08-11 01:02:28,965 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RELIANCE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RELIANCE.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:02:28,966 - WARNING - Could not retrieve info for RELIANCE.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:28,967 - ERROR - Failed to get ticker 'RELIANCE.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:31,209 - ERROR - $RELIANCE.NS: possibly delisted; No price data found  (period=1y)
+2025-08-11 01:02:31,209 - INFO - Retrieved 0 rows of data for RELIANCE.NS with period 1y
+2025-08-11 01:02:31,209 - WARNING - No historical data found for RELIANCE.NS with period 1y
+2025-08-11 01:02:31,209 - ERROR - Failed to fetch data for RELIANCE.NS with all attempted periods
+2025-08-11 01:02:33,210 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 01:02:35,438 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:02:36,613 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:37,788 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:38,957 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 01:02:38,958 - INFO - Retrieved 0 rows of data for INFY.NS with period 6mo
+2025-08-11 01:02:38,958 - WARNING - No historical data found for INFY.NS with period 6mo
+2025-08-11 01:02:38,958 - INFO - Attempting to fetch data for INFY.NS with period 3mo
+2025-08-11 01:02:40,182 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:02:40,183 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:40,184 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:41,421 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=3mo)
+2025-08-11 01:02:41,421 - INFO - Retrieved 0 rows of data for INFY.NS with period 3mo
+2025-08-11 01:02:41,421 - WARNING - No historical data found for INFY.NS with period 3mo
+2025-08-11 01:02:41,422 - INFO - Attempting to fetch data for INFY.NS with period 1mo
+2025-08-11 01:02:42,615 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:02:42,616 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:42,617 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:44,476 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=1mo)
+2025-08-11 01:02:44,477 - INFO - Retrieved 0 rows of data for INFY.NS with period 1mo
+2025-08-11 01:02:44,477 - WARNING - No historical data found for INFY.NS with period 1mo
+2025-08-11 01:02:44,478 - INFO - Attempting to fetch data for INFY.NS with period 1y
+2025-08-11 01:02:45,688 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/INFY.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=INFY.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:02:45,689 - WARNING - Could not retrieve info for INFY.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:45,690 - ERROR - Failed to get ticker 'INFY.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:46,891 - ERROR - $INFY.NS: possibly delisted; No price data found  (period=1y)
+2025-08-11 01:02:46,891 - INFO - Retrieved 0 rows of data for INFY.NS with period 1y
+2025-08-11 01:02:46,891 - WARNING - No historical data found for INFY.NS with period 1y
+2025-08-11 01:02:46,892 - ERROR - Failed to fetch data for INFY.NS with all attempted periods
+2025-08-11 01:02:48,892 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 01:02:50,768 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:02:52,064 - WARNING - Could not retrieve info for ICICIBANK.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:54,205 - ERROR - Failed to get ticker 'ICICIBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:56,565 - ERROR - $ICICIBANK.NS: possibly delisted; No price data found  (period=6mo)
+2025-08-11 01:02:56,566 - INFO - Retrieved 0 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 01:02:56,566 - WARNING - No historical data found for ICICIBANK.NS with period 6mo
+2025-08-11 01:02:56,566 - INFO - Attempting to fetch data for ICICIBANK.NS with period 3mo
+2025-08-11 01:02:59,075 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:02:59,076 - WARNING - Could not retrieve info for ICICIBANK.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:02:59,077 - ERROR - Failed to get ticker 'ICICIBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:03:00,234 - ERROR - $ICICIBANK.NS: possibly delisted; No price data found  (period=3mo)
+2025-08-11 01:03:00,234 - INFO - Retrieved 0 rows of data for ICICIBANK.NS with period 3mo
+2025-08-11 01:03:00,235 - WARNING - No historical data found for ICICIBANK.NS with period 3mo
+2025-08-11 01:03:00,235 - INFO - Attempting to fetch data for ICICIBANK.NS with period 1mo
+2025-08-11 01:03:01,404 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:03:01,405 - WARNING - Could not retrieve info for ICICIBANK.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:03:01,406 - ERROR - Failed to get ticker 'ICICIBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:03:03,779 - ERROR - $ICICIBANK.NS: possibly delisted; No price data found  (period=1mo)
+2025-08-11 01:03:03,779 - INFO - Retrieved 0 rows of data for ICICIBANK.NS with period 1mo
+2025-08-11 01:03:03,780 - WARNING - No historical data found for ICICIBANK.NS with period 1mo
+2025-08-11 01:03:03,780 - INFO - Attempting to fetch data for ICICIBANK.NS with period 1y
+2025-08-11 01:03:04,973 - ERROR - 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ICICIBANK.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ICICIBANK.NS&crumb=Edge%3A+Too+Many+Requests
+2025-08-11 01:03:04,974 - WARNING - Could not retrieve info for ICICIBANK.NS: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:03:04,975 - ERROR - Failed to get ticker 'ICICIBANK.NS' reason: Expecting value: line 1 column 1 (char 0)
+2025-08-11 01:03:06,180 - ERROR - $ICICIBANK.NS: possibly delisted; No price data found  (period=1y)
+2025-08-11 01:03:06,181 - INFO - Retrieved 0 rows of data for ICICIBANK.NS with period 1y
+2025-08-11 01:03:06,181 - WARNING - No historical data found for ICICIBANK.NS with period 1y
+2025-08-11 01:03:06,181 - ERROR - Failed to fetch data for ICICIBANK.NS with all attempted periods
+2025-08-11 01:03:06,181 - ERROR - No data fetched for any symbols. This might be due to Yahoo Finance API issues.
+2025-08-11 01:03:06,182 - ERROR - Possible solutions:
+2025-08-11 01:03:06,182 - ERROR - 1. Check your internet connection
+2025-08-11 01:03:06,182 - ERROR - 2. Try updating yfinance: pip install --upgrade yfinance
+2025-08-11 01:03:06,182 - ERROR - 3. Check if the ticker symbols are still valid
+2025-08-11 01:03:06,182 - ERROR - 4. Try using a VPN if you're in a region where Yahoo Finance is blocked
+2025-08-11 01:03:06,182 - ERROR - 5. Wait and try again later as this might be a temporary issue with Yahoo Finance
+2025-08-11 01:03:06,183 - ERROR - No data fetched for any symbol. Aborting execution.
+2025-08-11 01:03:44,239 - INFO - Starting trading system execution
+2025-08-11 01:03:44,239 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 01:03:45,941 - INFO - Successfully retrieved info for RELIANCE.NS
+2025-08-11 01:03:48,191 - INFO - Retrieved 123 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 01:03:48,191 - INFO - Successfully fetched data for RELIANCE.NS with period 6mo
+2025-08-11 01:03:50,192 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 01:03:50,504 - INFO - Successfully retrieved info for INFY.NS
+2025-08-11 01:03:50,804 - INFO - Retrieved 123 rows of data for INFY.NS with period 6mo
+2025-08-11 01:03:50,804 - INFO - Successfully fetched data for INFY.NS with period 6mo
+2025-08-11 01:03:52,804 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 01:03:53,124 - INFO - Successfully retrieved info for ICICIBANK.NS
+2025-08-11 01:03:53,418 - INFO - Retrieved 123 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 01:03:53,418 - INFO - Successfully fetched data for ICICIBANK.NS with period 6mo
+2025-08-11 01:03:53,418 - INFO - Successfully fetched data for symbols: ['RELIANCE.NS', 'INFY.NS', 'ICICIBANK.NS']
+2025-08-11 01:03:53,423 - INFO - Signals generated for RELIANCE.NS
+2025-08-11 01:03:53,426 - INFO - Signals generated for INFY.NS
+2025-08-11 01:03:53,428 - INFO - Signals generated for ICICIBANK.NS
+2025-08-11 01:03:53,438 - INFO - ML model trained for RELIANCE.NS with accuracy: 0.33
+2025-08-11 01:03:53,442 - INFO - ML model trained for INFY.NS with accuracy: 0.40
+2025-08-11 01:03:53,447 - INFO - ML model trained for ICICIBANK.NS with accuracy: 0.13
+2025-08-11 01:03:56,143 - ERROR - Error logging to Google Sheets: Object of type int64 is not JSON serializable
+2025-08-11 01:04:01,867 - INFO - Telegram alert sent successfully
+2025-08-11 01:04:01,868 - INFO - Trading system execution completed
+2025-08-11 01:07:53,838 - INFO - Starting trading system execution
+2025-08-11 01:07:53,839 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 01:07:55,981 - INFO - Successfully retrieved info for RELIANCE.NS
+2025-08-11 01:07:56,197 - INFO - Retrieved 123 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 01:07:56,198 - INFO - Successfully fetched data for RELIANCE.NS with period 6mo
+2025-08-11 01:07:58,198 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 01:07:58,503 - INFO - Successfully retrieved info for INFY.NS
+2025-08-11 01:07:58,647 - INFO - Retrieved 123 rows of data for INFY.NS with period 6mo
+2025-08-11 01:07:58,648 - INFO - Successfully fetched data for INFY.NS with period 6mo
+2025-08-11 01:08:00,648 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 01:08:00,957 - INFO - Successfully retrieved info for ICICIBANK.NS
+2025-08-11 01:08:01,089 - INFO - Retrieved 123 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 01:08:01,089 - INFO - Successfully fetched data for ICICIBANK.NS with period 6mo
+2025-08-11 01:08:01,090 - INFO - Successfully fetched data for symbols: ['RELIANCE.NS', 'INFY.NS', 'ICICIBANK.NS']
+2025-08-11 01:08:01,093 - INFO - Signals generated for RELIANCE.NS
+2025-08-11 01:08:01,096 - INFO - Signals generated for INFY.NS
+2025-08-11 01:08:01,099 - INFO - Signals generated for ICICIBANK.NS
+2025-08-11 01:08:01,104 - INFO - ML model trained for RELIANCE.NS with accuracy: 0.33
+2025-08-11 01:08:01,109 - INFO - ML model trained for INFY.NS with accuracy: 0.47
+2025-08-11 01:08:01,113 - INFO - ML model trained for ICICIBANK.NS with accuracy: 0.20
+2025-08-11 01:08:02,853 - ERROR - Error logging to Google Sheets: Object of type int64 is not JSON serializable
+2025-08-11 01:08:03,532 - INFO - Telegram alert sent successfully
+2025-08-11 01:08:03,533 - INFO - Trading system execution completed
+2025-08-11 01:10:59,560 - INFO - Starting trading system execution
+2025-08-11 01:10:59,561 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 01:11:00,614 - INFO - Successfully retrieved info for RELIANCE.NS
+2025-08-11 01:11:00,859 - INFO - Retrieved 123 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 01:11:00,859 - INFO - Successfully fetched data for RELIANCE.NS with period 6mo
+2025-08-11 01:11:02,859 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 01:11:03,167 - INFO - Successfully retrieved info for INFY.NS
+2025-08-11 01:11:03,311 - INFO - Retrieved 123 rows of data for INFY.NS with period 6mo
+2025-08-11 01:11:03,312 - INFO - Successfully fetched data for INFY.NS with period 6mo
+2025-08-11 01:11:05,312 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 01:11:05,626 - INFO - Successfully retrieved info for ICICIBANK.NS
+2025-08-11 01:11:05,777 - INFO - Retrieved 123 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 01:11:05,778 - INFO - Successfully fetched data for ICICIBANK.NS with period 6mo
+2025-08-11 01:11:05,778 - INFO - Successfully fetched data for symbols: ['RELIANCE.NS', 'INFY.NS', 'ICICIBANK.NS']
+2025-08-11 01:11:05,782 - INFO - Signals generated for RELIANCE.NS
+2025-08-11 01:11:05,785 - INFO - Signals generated for INFY.NS
+2025-08-11 01:11:05,787 - INFO - Signals generated for ICICIBANK.NS
+2025-08-11 01:11:05,793 - INFO - ML model trained for RELIANCE.NS with accuracy: 0.33
+2025-08-11 01:11:05,798 - INFO - ML model trained for INFY.NS with accuracy: 0.53
+2025-08-11 01:11:05,802 - INFO - ML model trained for ICICIBANK.NS with accuracy: 0.27
+2025-08-11 01:11:07,435 - INFO - Trade data logged to Google Sheets
+2025-08-11 01:11:08,154 - INFO - Telegram alert sent successfully
+2025-08-11 01:11:08,154 - INFO - Trading system execution completed
+2025-08-11 01:14:26,630 - INFO - Starting trading system execution
+2025-08-11 01:14:26,630 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 01:14:27,645 - INFO - Successfully retrieved info for RELIANCE.NS
+2025-08-11 01:14:27,865 - INFO - Retrieved 123 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 01:14:27,866 - INFO - Successfully fetched data for RELIANCE.NS with period 6mo
+2025-08-11 01:14:29,866 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 01:14:30,189 - INFO - Successfully retrieved info for INFY.NS
+2025-08-11 01:14:30,344 - INFO - Retrieved 123 rows of data for INFY.NS with period 6mo
+2025-08-11 01:14:30,344 - INFO - Successfully fetched data for INFY.NS with period 6mo
+2025-08-11 01:14:32,345 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 01:14:32,831 - INFO - Successfully retrieved info for ICICIBANK.NS
+2025-08-11 01:14:32,979 - INFO - Retrieved 123 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 01:14:32,980 - INFO - Successfully fetched data for ICICIBANK.NS with period 6mo
+2025-08-11 01:14:32,980 - INFO - Successfully fetched data for symbols: ['RELIANCE.NS', 'INFY.NS', 'ICICIBANK.NS']
+2025-08-11 01:14:32,984 - INFO - Signals generated for RELIANCE.NS
+2025-08-11 01:14:32,987 - INFO - Signals generated for INFY.NS
+2025-08-11 01:14:32,990 - INFO - Signals generated for ICICIBANK.NS
+2025-08-11 01:14:32,995 - INFO - ML model trained for RELIANCE.NS with accuracy: 0.33
+2025-08-11 01:14:33,002 - INFO - ML model trained for INFY.NS with accuracy: 0.47
+2025-08-11 01:14:33,007 - INFO - ML model trained for ICICIBANK.NS with accuracy: 0.20
+2025-08-11 01:14:34,578 - INFO - Trade data logged to Google Sheets
+2025-08-11 01:14:35,584 - INFO - Telegram alert sent successfully
+2025-08-11 01:14:35,585 - INFO - Trading system execution completed
+2025-08-11 01:24:13,271 - INFO - Starting trading system execution
+2025-08-11 01:24:13,272 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 01:24:15,324 - INFO - Successfully retrieved info for RELIANCE.NS
+2025-08-11 01:24:15,564 - INFO - Retrieved 123 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 01:24:15,564 - INFO - Successfully fetched data for RELIANCE.NS with period 6mo
+2025-08-11 01:24:17,565 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 01:24:17,905 - INFO - Successfully retrieved info for INFY.NS
+2025-08-11 01:24:18,053 - INFO - Retrieved 123 rows of data for INFY.NS with period 6mo
+2025-08-11 01:24:18,054 - INFO - Successfully fetched data for INFY.NS with period 6mo
+2025-08-11 01:24:20,054 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 01:24:20,771 - INFO - Successfully retrieved info for ICICIBANK.NS
+2025-08-11 01:24:20,915 - INFO - Retrieved 123 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 01:24:20,916 - INFO - Successfully fetched data for ICICIBANK.NS with period 6mo
+2025-08-11 01:24:20,916 - INFO - Successfully fetched data for symbols: ['RELIANCE.NS', 'INFY.NS', 'ICICIBANK.NS']
+2025-08-11 01:24:20,919 - INFO - Signals generated for RELIANCE.NS
+2025-08-11 01:24:20,922 - INFO - Signals generated for INFY.NS
+2025-08-11 01:24:20,925 - INFO - Signals generated for ICICIBANK.NS
+2025-08-11 01:24:20,930 - INFO - ML model trained for RELIANCE.NS with accuracy: 0.33
+2025-08-11 01:24:20,935 - INFO - ML model trained for INFY.NS with accuracy: 0.53
+2025-08-11 01:24:20,940 - INFO - ML model trained for ICICIBANK.NS with accuracy: 0.20
+2025-08-11 01:24:22,599 - INFO - Trade data logged to Google Sheets
+2025-08-11 01:24:23,279 - INFO - Telegram alert sent successfully
+2025-08-11 01:24:23,279 - INFO - Trading system execution completed
+2025-08-11 01:27:53,877 - INFO - Starting trading system execution
+2025-08-11 01:27:53,877 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 01:27:55,295 - INFO - Successfully retrieved info for RELIANCE.NS
+2025-08-11 01:27:55,537 - INFO - Retrieved 123 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 01:27:55,537 - INFO - Successfully fetched data for RELIANCE.NS with period 6mo
+2025-08-11 01:27:57,537 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 01:27:57,860 - INFO - Successfully retrieved info for INFY.NS
+2025-08-11 01:27:58,011 - INFO - Retrieved 123 rows of data for INFY.NS with period 6mo
+2025-08-11 01:27:58,011 - INFO - Successfully fetched data for INFY.NS with period 6mo
+2025-08-11 01:28:00,012 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 01:28:00,704 - INFO - Successfully retrieved info for ICICIBANK.NS
+2025-08-11 01:28:00,847 - INFO - Retrieved 123 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 01:28:00,847 - INFO - Successfully fetched data for ICICIBANK.NS with period 6mo
+2025-08-11 01:28:00,847 - INFO - Successfully fetched data for symbols: ['RELIANCE.NS', 'INFY.NS', 'ICICIBANK.NS']
+2025-08-11 01:28:00,850 - INFO - Signals generated for RELIANCE.NS
+2025-08-11 01:28:00,852 - INFO - Signals generated for INFY.NS
+2025-08-11 01:28:00,854 - INFO - Signals generated for ICICIBANK.NS
+2025-08-11 01:28:00,860 - INFO - ML model trained for RELIANCE.NS with accuracy: 0.33
+2025-08-11 01:28:00,865 - INFO - ML model trained for INFY.NS with accuracy: 0.53
+2025-08-11 01:28:00,869 - INFO - ML model trained for ICICIBANK.NS with accuracy: 0.13
+2025-08-11 01:28:03,056 - INFO - Trade data logged to Google Sheets
+2025-08-11 01:28:04,703 - INFO - Telegram alert sent successfully
+2025-08-11 01:28:04,703 - INFO - Trading system execution completed
+2025-08-11 01:38:04,060 - INFO - Starting trading system execution
+2025-08-11 01:38:04,060 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 01:38:05,525 - INFO - Successfully retrieved info for RELIANCE.NS
+2025-08-11 01:38:05,760 - INFO - Retrieved 123 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 01:38:05,760 - INFO - Successfully fetched data for RELIANCE.NS with period 6mo
+2025-08-11 01:38:07,761 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 01:38:08,084 - INFO - Successfully retrieved info for INFY.NS
+2025-08-11 01:38:08,236 - INFO - Retrieved 123 rows of data for INFY.NS with period 6mo
+2025-08-11 01:38:08,236 - INFO - Successfully fetched data for INFY.NS with period 6mo
+2025-08-11 01:38:10,237 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 01:38:10,573 - INFO - Successfully retrieved info for ICICIBANK.NS
+2025-08-11 01:38:10,711 - INFO - Retrieved 123 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 01:38:10,712 - INFO - Successfully fetched data for ICICIBANK.NS with period 6mo
+2025-08-11 01:38:10,712 - INFO - Successfully fetched data for symbols: ['RELIANCE.NS', 'INFY.NS', 'ICICIBANK.NS']
+2025-08-11 01:38:10,718 - INFO - Signals generated for RELIANCE.NS
+2025-08-11 01:38:10,721 - INFO - Signals generated for INFY.NS
+2025-08-11 01:38:10,724 - INFO - Signals generated for ICICIBANK.NS
+2025-08-11 01:38:10,730 - INFO - ML model trained for RELIANCE.NS with accuracy: 0.33
+2025-08-11 01:38:10,735 - INFO - ML model trained for INFY.NS with accuracy: 0.47
+2025-08-11 01:38:10,739 - INFO - ML model trained for ICICIBANK.NS with accuracy: 0.27
+2025-08-11 01:38:13,551 - INFO - Trade data logged to Google Sheets
+2025-08-11 01:38:15,084 - INFO - Portfolio summary logged to Google Sheets
+2025-08-11 01:38:16,803 - INFO - Telegram alert sent successfully
+2025-08-11 01:38:16,804 - INFO - Trading system execution completed
+2025-08-11 19:30:50,437 - INFO - Starting trading system execution
+2025-08-11 19:30:50,441 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 19:30:51,592 - INFO - Successfully retrieved info for RELIANCE.NS
+2025-08-11 19:30:53,802 - INFO - Retrieved 123 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 19:30:53,803 - INFO - Successfully fetched data for RELIANCE.NS with period 6mo
+2025-08-11 19:30:55,804 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 19:30:56,139 - INFO - Successfully retrieved info for INFY.NS
+2025-08-11 19:30:56,315 - INFO - Retrieved 123 rows of data for INFY.NS with period 6mo
+2025-08-11 19:30:56,315 - INFO - Successfully fetched data for INFY.NS with period 6mo
+2025-08-11 19:30:58,316 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 19:30:58,622 - INFO - Successfully retrieved info for ICICIBANK.NS
+2025-08-11 19:30:58,778 - INFO - Retrieved 123 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 19:30:58,779 - INFO - Successfully fetched data for ICICIBANK.NS with period 6mo
+2025-08-11 19:30:58,779 - INFO - Successfully fetched data for symbols: ['RELIANCE.NS', 'INFY.NS', 'ICICIBANK.NS']
+2025-08-11 19:30:58,787 - INFO - Signals generated for RELIANCE.NS
+2025-08-11 19:30:58,790 - INFO - Signals generated for INFY.NS
+2025-08-11 19:30:58,793 - INFO - Signals generated for ICICIBANK.NS
+2025-08-11 19:30:58,802 - INFO - ML model trained for RELIANCE.NS with accuracy: 0.40
+2025-08-11 19:30:58,807 - INFO - ML model trained for INFY.NS with accuracy: 0.27
+2025-08-11 19:30:58,811 - INFO - ML model trained for ICICIBANK.NS with accuracy: 0.40
+2025-08-11 19:31:01,173 - INFO - Trade data logged to Google Sheets
+2025-08-11 19:31:03,294 - INFO - Portfolio summary logged to Google Sheets
+2025-08-11 19:31:04,099 - INFO - Telegram alert sent successfully
+2025-08-11 19:31:04,102 - INFO - Trading system execution completed
+2025-08-11 19:39:55,195 - INFO - Starting trading system execution
+2025-08-11 19:39:55,196 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 19:39:56,316 - INFO - Successfully retrieved info for RELIANCE.NS
+2025-08-11 19:39:57,563 - INFO - Retrieved 123 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 19:39:57,564 - INFO - Successfully fetched data for RELIANCE.NS with period 6mo
+2025-08-11 19:39:59,564 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 19:39:59,958 - INFO - Successfully retrieved info for INFY.NS
+2025-08-11 19:40:00,131 - INFO - Retrieved 123 rows of data for INFY.NS with period 6mo
+2025-08-11 19:40:00,131 - INFO - Successfully fetched data for INFY.NS with period 6mo
+2025-08-11 19:40:02,132 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 19:40:03,290 - INFO - Successfully retrieved info for ICICIBANK.NS
+2025-08-11 19:40:03,438 - INFO - Retrieved 123 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 19:40:03,438 - INFO - Successfully fetched data for ICICIBANK.NS with period 6mo
+2025-08-11 19:40:03,439 - INFO - Successfully fetched data for symbols: ['RELIANCE.NS', 'INFY.NS', 'ICICIBANK.NS']
+2025-08-11 19:40:03,444 - INFO - Signals generated for RELIANCE.NS
+2025-08-11 19:40:03,449 - INFO - Signals generated for INFY.NS
+2025-08-11 19:40:03,454 - INFO - Signals generated for ICICIBANK.NS
+2025-08-11 19:40:03,465 - INFO - ML model trained for RELIANCE.NS with accuracy: 0.40
+2025-08-11 19:40:03,474 - INFO - ML model trained for INFY.NS with accuracy: 0.27
+2025-08-11 19:40:03,483 - INFO - ML model trained for ICICIBANK.NS with accuracy: 0.40
+2025-08-11 19:40:05,716 - INFO - Trade data logged to Google Sheets
+2025-08-11 19:40:07,776 - INFO - Portfolio summary logged to Google Sheets
+2025-08-11 19:40:08,502 - INFO - Telegram alert sent successfully
+2025-08-11 19:40:08,503 - INFO - Trading system execution completed
+2025-08-11 20:51:35,706 - INFO - Starting trading system execution
+2025-08-11 20:51:35,707 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 20:51:37,772 - INFO - Successfully retrieved info for RELIANCE.NS
+2025-08-11 20:51:38,094 - INFO - Retrieved 123 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 20:51:38,095 - INFO - Successfully fetched data for RELIANCE.NS with period 6mo
+2025-08-11 20:51:40,095 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 20:51:40,441 - INFO - Successfully retrieved info for INFY.NS
+2025-08-11 20:51:40,605 - INFO - Retrieved 123 rows of data for INFY.NS with period 6mo
+2025-08-11 20:51:40,606 - INFO - Successfully fetched data for INFY.NS with period 6mo
+2025-08-11 20:51:42,607 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 20:51:42,961 - INFO - Successfully retrieved info for ICICIBANK.NS
+2025-08-11 20:51:43,122 - INFO - Retrieved 123 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 20:51:43,123 - INFO - Successfully fetched data for ICICIBANK.NS with period 6mo
+2025-08-11 20:51:43,123 - INFO - Successfully fetched data for symbols: ['RELIANCE.NS', 'INFY.NS', 'ICICIBANK.NS']
+2025-08-11 20:51:43,129 - INFO - Signals generated for RELIANCE.NS
+2025-08-11 20:51:43,134 - INFO - Signals generated for INFY.NS
+2025-08-11 20:51:43,139 - INFO - Signals generated for ICICIBANK.NS
+2025-08-11 20:51:43,150 - INFO - ML model trained for RELIANCE.NS with accuracy: 0.40
+2025-08-11 20:51:43,159 - INFO - ML model trained for INFY.NS with accuracy: 0.27
+2025-08-11 20:51:43,168 - INFO - ML model trained for ICICIBANK.NS with accuracy: 0.40
+2025-08-11 20:51:44,976 - INFO - Trade data logged to Google Sheets
+2025-08-11 20:51:47,043 - INFO - Portfolio summary logged to Google Sheets
+2025-08-11 20:51:47,790 - INFO - Telegram alert sent successfully
+2025-08-11 20:51:47,791 - INFO - Trading system execution completed
+2025-08-11 20:58:02,946 - INFO - Starting trading system execution
+2025-08-11 20:58:02,946 - INFO - Attempting to fetch data for RELIANCE.NS with period 6mo
+2025-08-11 20:58:04,157 - INFO - Successfully retrieved info for RELIANCE.NS
+2025-08-11 20:58:04,450 - INFO - Retrieved 123 rows of data for RELIANCE.NS with period 6mo
+2025-08-11 20:58:04,450 - INFO - Successfully fetched data for RELIANCE.NS with period 6mo
+2025-08-11 20:58:06,451 - INFO - Attempting to fetch data for INFY.NS with period 6mo
+2025-08-11 20:58:07,079 - INFO - Successfully retrieved info for INFY.NS
+2025-08-11 20:58:07,251 - INFO - Retrieved 123 rows of data for INFY.NS with period 6mo
+2025-08-11 20:58:07,252 - INFO - Successfully fetched data for INFY.NS with period 6mo
+2025-08-11 20:58:09,252 - INFO - Attempting to fetch data for ICICIBANK.NS with period 6mo
+2025-08-11 20:58:09,595 - INFO - Successfully retrieved info for ICICIBANK.NS
+2025-08-11 20:58:09,743 - INFO - Retrieved 123 rows of data for ICICIBANK.NS with period 6mo
+2025-08-11 20:58:09,743 - INFO - Successfully fetched data for ICICIBANK.NS with period 6mo
+2025-08-11 20:58:09,744 - INFO - Successfully fetched data for symbols: ['RELIANCE.NS', 'INFY.NS', 'ICICIBANK.NS']
+2025-08-11 20:58:09,749 - INFO - Signals generated for RELIANCE.NS
+2025-08-11 20:58:09,754 - INFO - Signals generated for INFY.NS
+2025-08-11 20:58:09,759 - INFO - Signals generated for ICICIBANK.NS
+2025-08-11 20:58:09,773 - INFO - ML model trained for RELIANCE.NS with accuracy: 0.40
+2025-08-11 20:58:09,784 - INFO - ML model trained for INFY.NS with accuracy: 0.27
+2025-08-11 20:58:09,794 - INFO - ML model trained for ICICIBANK.NS with accuracy: 0.40
+2025-08-11 20:58:11,583 - INFO - Trade data logged to Google Sheets
+2025-08-11 20:58:13,393 - INFO - Portfolio summary logged to Google Sheets
+2025-08-11 20:58:14,133 - INFO - Telegram alert sent successfully
+2025-08-11 20:58:14,134 - INFO - Trading system execution completed
